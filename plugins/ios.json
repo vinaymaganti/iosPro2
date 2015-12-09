@@ -1,0 +1,24 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.tcs.apollo"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.tcs.apollo"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "com.tcs.apollo"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.tcs.apollo"
+        }
+    },
+    "dependent_plugins": {}
+}
